@@ -1,5 +1,8 @@
 # The-VBA-of-Wall-Street
-Multi-Year Stock Data Analysis 
+
+![stock Market](Images/stockmarket.jpg)
+
+# Multi-Year Stock Data Analysis 
 
 Use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
 
